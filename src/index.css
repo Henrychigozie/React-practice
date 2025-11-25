@@ -1,0 +1,12 @@
+:root{
+  --genral:red;
+}
+
+body{
+  background-color: var(--genral);
+}
+
+.henry{
+  color: blue;
+  font-size: 200px;
+}
