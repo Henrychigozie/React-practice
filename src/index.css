@@ -8,5 +8,11 @@ body{
 
 .henry{
   color: blue;
-  font-size: 200px;
+  font-size: 60px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.hero-section{
+  
 }
