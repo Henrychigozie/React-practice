@@ -6,9 +6,10 @@ function App() {
       <Navbar />
       <p>Ben</p>
       <HeroSection name="oba" />
+      <Body name="enivroment" number={5} />
     </>
   );
 }
 
 export default App;
-
+import {Body} from "../components/navbar";
